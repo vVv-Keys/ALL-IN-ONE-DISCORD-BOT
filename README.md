@@ -13,3 +13,8 @@ This is the best discord bot hands down that I make/use that relates to "REGULAR
 - LITERALLY EVERYTHING. NOT GOING TO TYPE IT. THERE MIGHT BE SOMETHIGN OF IT STIL IN THE OLD ZIP ON HERE SO CHECK THAT OUT BUT STAY TUNED FOR AN UPDATE ON THESE ALONG WITH A FEW OTHER CLASSICS OF MINE!
 
 LOVE YALL
+
+
+# feel free to fork/pull/create from. One of the best all in one DISCORD BOTs already formulated to get your community started and growing immediatley. Fully open sourced. 500+ commands. Moderation commands. SO MUCH MORE.
+
+# THANK YOU ALL!
